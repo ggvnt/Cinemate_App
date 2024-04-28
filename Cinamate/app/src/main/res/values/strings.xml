@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Cinemate</string>
+    <string name="welcome1">Welcome to the movie journey</string>
+    <string name="welcometext">Welcome all of you for CinetiX! So you can start your move journey here.</string>
+    <string name="onboard2">Book your seat here!</string>
+    <string name="onboard2text">You can buy tickets and book your seat early.</string>
+    <string name="onboard3">Premiere Your Movie Experience!</string>
+    <string name="onboard3text">its time to premiere your journey by signing up or logging in.Lets roll out the cinematic carpet together!</string>
+
+    <string name="login"><b>Sign In</b></string>
+    <string name="username1">Username/Email</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="donthave">Don not have any account.Sign up Here!</string>
+    <string name="signuphe">Sign up Here!</string>
+
+    <string name="signup"><b>Sign Up</b></string>
+    <string name="Firstname">First Name</string>
+    <string name="Lastname">Last Name</string>
+    <string name="birthday">Birthday</string>
+    <string name="verifypassword">Verify Password</string>
+    <string name="haveacc">Have any account.</string>
+    <string name="signinhe">Sign in Here!</string>
+
+    <string name="movieinfo">Movie Info.</string>
+    <string name="buyticket">Buy Ticket</string>
+
+    <string name="time">Time</string>
+    <string name="time1">10.30-12.30</string>
+    <string name="time2">1.30-2.30</string>
+    <string name="time3">5.30-7.30</string>
+
+    <string name="loc1">Gampaha - Wards City</string>
+    <string name="loc2">Nugegoda - Hawlock City</string>
+    <string name="loc3">Kandy - KCC</string>
+
+    <string name="more">More</string>
+
+
+</resources>
